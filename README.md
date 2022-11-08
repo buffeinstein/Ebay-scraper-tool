@@ -19,10 +19,33 @@ the arguments allow you to edit:
 2) (optional argument, default set to 10 )enter in how many pages of ebay you want it to scrape with: --page_number = 
 3) (optional argument, default set to json) enter in --csv if you want it saved as a csv file 
 
-Here are the 6 commands I ran, the first three create json files, the next three create csv files, and all of them scrape 10 images 
+Here are the 6 commands I ran. all of them scrape 10 ebay pages, since I didn't specify a page number. 
+the first three create json files, the next three create csv files, and all of them scrape 10 pages because I didn't put in an argument for page number and so it defaulted to 10. 
+
+```
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'leather jacket women'      
+
+```
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'washi tape'      
+```
+
+```
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'fountain pen'      
+```
+
+```
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'leather jacket women' --csv
+```
+
+```
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'washi tape'   --csv
+```
+
+``  
+/usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'fountain pen'   --csv
+```
 
 
-how to run your ebay-dl.py file, using markdown code block(s) (and not inline code annotations) to show the exact commands that should be run to generate the 3 json files in your repo
 
 
 
