@@ -24,6 +24,7 @@ the first three create json files, the next three create csv files, and all of t
 
 ```
 /usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'leather jacket women'      
+```
 
 ```
 /usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'washi tape'      
