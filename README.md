@@ -4,7 +4,7 @@
 1) name 
 2) price
 3) shipping cost
-4) free returns
+4) free return status
 5) items sold
 6) owned status 
 
@@ -47,7 +47,7 @@ The next three create csv files.
 
 Happy scraping!
 
-This project was made to follow the instructions, found  [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03)
+This project was made to follow the instructions found  [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03)
 
 
 
