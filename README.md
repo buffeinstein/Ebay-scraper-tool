@@ -41,7 +41,7 @@ The next three create csv files.
 /usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'washi tape'   --csv
 ```
 
-``  
+``` 
 /usr/local/bin/python3 /Users/ambikatiwari/Downloads/CS40/week9/project3/ebay-dl2.py 'fountain pen'   --csv
 ```
 
