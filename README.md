@@ -47,7 +47,6 @@ The next three create csv files.
 
 Happy scraping!
 
-This project was made to follow the instructions found  [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03)
 
 
 
