@@ -1,4 +1,4 @@
-# project03
+
 
  The python file 'ebay-dl2.py' allows you to scrape ebay to find the following information about an item: 
 1) name 
